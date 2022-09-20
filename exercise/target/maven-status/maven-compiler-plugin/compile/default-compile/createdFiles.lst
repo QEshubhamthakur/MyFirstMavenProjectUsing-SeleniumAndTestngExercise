@@ -1,0 +1,4 @@
+com\qagenic\WebdriverInit.class
+com\qagenic\pageobjects\Checkbox.class
+com\qagenic\utils\ConfigFileReader.class
+com\qagenic\PageInitiator.class
