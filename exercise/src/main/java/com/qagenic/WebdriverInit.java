@@ -25,7 +25,7 @@ public class WebdriverInit {
             case "edge":
                 driver = WebDriverManager.edgedriver().create();
             default:
-                driver = WebDriverManager.chromedriver().create();
+                driver = WebDriverManager.edgedriver().create();
                 break;
         }
 
